@@ -1,4 +1,4 @@
-# YouTube LangGraph MCP Server
+#LangGraph MCP Server
 
 ## Overview
 This project is a modular, agent-based system for automating Windows system administration and file operations using natural language commands. It leverages LangGraph (and optionally LangChain) to orchestrate tool-based agents, enabling users to interact with Windows services, search for files, and manage the Windows registry through conversational prompts.
