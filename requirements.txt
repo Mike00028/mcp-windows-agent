@@ -1,0 +1,9 @@
+# Python 3.12 compatible
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+langgraph==0.0.35
+pywin32==306
+pydantic==2.7.1
+
+# Optional (only if using CORS in prod)
+python-multipart==0.0.9
